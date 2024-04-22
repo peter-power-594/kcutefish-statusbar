@@ -34,6 +34,7 @@
 #include <NETWM>
 #include <KWindowSystem>
 #include <KWindowEffects>
+#include <KX11Extras>
 
 StatusBar::StatusBar(QQuickView *parent)
     : QQuickView(parent)
@@ -45,7 +46,7 @@ StatusBar::StatusBar(QQuickView *parent)
     setFlags(Qt::FramelessWindowHint | Qt::WindowDoesNotAcceptFocus);
     setColor(Qt::transparent);
 
-    KWindowSystem::setOnDesktop(winId(), NET::OnAllDesktops);
+    KX11Extras::setOnDesktop(winId(), NET::OnAllDesktops);
     KWindowSystem::setType(winId(), NET::Dock);
 
     new StatusbarAdaptor(this);
@@ -122,7 +123,7 @@ void StatusBar::updateViewStruts()
     strut.top_start = rect.x();
     strut.top_end = rect.x() + rect.width() - 1;
 
-    KWindowSystem::setExtendedStrut(winId(),
+    KX11Extras::setExtendedStrut(winId(),
                                  strut.left_width,
                                  strut.left_start,
                                  strut.left_end,
