@@ -2,42 +2,41 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="ne">
 <context>
+    <name>Activity</name>
+    <message>
+        <location filename="../src/activity.cpp" line="166"/>
+        <source>Desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ControlCenter</name>
     <message>
-        <location filename="../qml/ControlCenter.qml" line="188"/>
         <source>Wi-Fi</source>
-        <translation>वाइफाइ</translation>
+        <translation type="vanished">वाइफाइ</translation>
     </message>
     <message>
-        <location filename="../qml/ControlCenter.qml" line="191"/>
-        <location filename="../qml/ControlCenter.qml" line="214"/>
         <source>On</source>
-        <translation>सुचारु</translation>
+        <translation type="vanished">सुचारु</translation>
     </message>
     <message>
-        <location filename="../qml/ControlCenter.qml" line="191"/>
-        <location filename="../qml/ControlCenter.qml" line="203"/>
-        <location filename="../qml/ControlCenter.qml" line="214"/>
         <source>Off</source>
-        <translation>बन्द</translation>
+        <translation type="vanished">बन्द</translation>
     </message>
     <message>
-        <location filename="../qml/ControlCenter.qml" line="202"/>
         <source>Bluetooth</source>
-        <translation>ब्लुटूथ</translation>
+        <translation type="vanished">ब्लुटूथ</translation>
     </message>
     <message>
-        <location filename="../qml/ControlCenter.qml" line="213"/>
         <source>Dark Mode</source>
-        <translation>अँध्यारो थीम</translation>
+        <translation type="vanished">अँध्यारो थीम</translation>
     </message>
 </context>
 <context>
     <name>main</name>
     <message>
-        <location filename="../qml/main.qml" line="71"/>
         <source>Close</source>
-        <translation>बन्द</translation>
+        <translation type="vanished">बन्द</translation>
     </message>
 </context>
 </TS>

@@ -2,42 +2,41 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="cs">
 <context>
+    <name>Activity</name>
+    <message>
+        <location filename="../src/activity.cpp" line="166"/>
+        <source>Desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ControlCenter</name>
     <message>
-        <location filename="../qml/ControlCenter.qml" line="188"/>
         <source>Wi-Fi</source>
-        <translation>Wi-FI</translation>
+        <translation type="vanished">Wi-FI</translation>
     </message>
     <message>
-        <location filename="../qml/ControlCenter.qml" line="191"/>
-        <location filename="../qml/ControlCenter.qml" line="214"/>
         <source>On</source>
-        <translation>Zapnout</translation>
+        <translation type="vanished">Zapnout</translation>
     </message>
     <message>
-        <location filename="../qml/ControlCenter.qml" line="191"/>
-        <location filename="../qml/ControlCenter.qml" line="203"/>
-        <location filename="../qml/ControlCenter.qml" line="214"/>
         <source>Off</source>
-        <translation>Vypnout</translation>
+        <translation type="vanished">Vypnout</translation>
     </message>
     <message>
-        <location filename="../qml/ControlCenter.qml" line="202"/>
         <source>Bluetooth</source>
-        <translation>Bluetooth</translation>
+        <translation type="vanished">Bluetooth</translation>
     </message>
     <message>
-        <location filename="../qml/ControlCenter.qml" line="213"/>
         <source>Dark Mode</source>
-        <translation>Tmavý vzhled</translation>
+        <translation type="vanished">Tmavý vzhled</translation>
     </message>
 </context>
 <context>
     <name>main</name>
     <message>
-        <location filename="../qml/main.qml" line="71"/>
         <source>Close</source>
-        <translation>Zavřít</translation>
+        <translation type="vanished">Zavřít</translation>
     </message>
 </context>
 </TS>

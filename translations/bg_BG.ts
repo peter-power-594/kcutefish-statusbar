@@ -2,42 +2,41 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="bg">
 <context>
+    <name>Activity</name>
+    <message>
+        <location filename="../src/activity.cpp" line="166"/>
+        <source>Desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ControlCenter</name>
     <message>
-        <location filename="../qml/ControlCenter.qml" line="188"/>
         <source>Wi-Fi</source>
-        <translation>Wi-Fi</translation>
+        <translation type="vanished">Wi-Fi</translation>
     </message>
     <message>
-        <location filename="../qml/ControlCenter.qml" line="191"/>
-        <location filename="../qml/ControlCenter.qml" line="214"/>
         <source>On</source>
-        <translation>Включено</translation>
+        <translation type="vanished">Включено</translation>
     </message>
     <message>
-        <location filename="../qml/ControlCenter.qml" line="191"/>
-        <location filename="../qml/ControlCenter.qml" line="203"/>
-        <location filename="../qml/ControlCenter.qml" line="214"/>
         <source>Off</source>
-        <translation>Изключено</translation>
+        <translation type="vanished">Изключено</translation>
     </message>
     <message>
-        <location filename="../qml/ControlCenter.qml" line="202"/>
         <source>Bluetooth</source>
-        <translation>Bluetooth</translation>
+        <translation type="vanished">Bluetooth</translation>
     </message>
     <message>
-        <location filename="../qml/ControlCenter.qml" line="213"/>
         <source>Dark Mode</source>
-        <translation>Тъмен режим</translation>
+        <translation type="vanished">Тъмен режим</translation>
     </message>
 </context>
 <context>
     <name>main</name>
     <message>
-        <location filename="../qml/main.qml" line="71"/>
         <source>Close</source>
-        <translation>Затваряне</translation>
+        <translation type="vanished">Затваряне</translation>
     </message>
 </context>
 </TS>

@@ -12,41 +12,31 @@
 <context>
     <name>ControlCenter</name>
     <message>
-        <location filename="../qml/ControlCenter.qml" line="217"/>
         <source>Wi-Fi</source>
-        <translation>Wi-Fi</translation>
+        <translation type="vanished">Wi-Fi</translation>
     </message>
     <message>
-        <location filename="../qml/ControlCenter.qml" line="220"/>
-        <location filename="../qml/ControlCenter.qml" line="236"/>
-        <location filename="../qml/ControlCenter.qml" line="253"/>
         <source>On</source>
-        <translation>Bật</translation>
+        <translation type="vanished">Bật</translation>
     </message>
     <message>
-        <location filename="../qml/ControlCenter.qml" line="220"/>
-        <location filename="../qml/ControlCenter.qml" line="236"/>
-        <location filename="../qml/ControlCenter.qml" line="253"/>
         <source>Off</source>
-        <translation>Tắt</translation>
+        <translation type="vanished">Tắt</translation>
     </message>
     <message>
-        <location filename="../qml/ControlCenter.qml" line="235"/>
         <source>Bluetooth</source>
-        <translation>Bluetooth</translation>
+        <translation type="vanished">Bluetooth</translation>
     </message>
     <message>
-        <location filename="../qml/ControlCenter.qml" line="252"/>
         <source>Dark Mode</source>
-        <translation>Chế độ tối</translation>
+        <translation type="vanished">Chế độ tối</translation>
     </message>
 </context>
 <context>
     <name>main</name>
     <message>
-        <location filename="../qml/main.qml" line="75"/>
         <source>Close</source>
-        <translation>Đóng</translation>
+        <translation type="vanished">Đóng</translation>
     </message>
 </context>
 </TS>

@@ -12,41 +12,31 @@
 <context>
     <name>ControlCenter</name>
     <message>
-        <location filename="../qml/ControlCenter.qml" line="217"/>
         <source>Wi-Fi</source>
-        <translation>ওয়াই-ফাই</translation>
+        <translation type="vanished">ওয়াই-ফাই</translation>
     </message>
     <message>
-        <location filename="../qml/ControlCenter.qml" line="220"/>
-        <location filename="../qml/ControlCenter.qml" line="236"/>
-        <location filename="../qml/ControlCenter.qml" line="253"/>
         <source>On</source>
-        <translation>চালু করুন</translation>
+        <translation type="vanished">চালু করুন</translation>
     </message>
     <message>
-        <location filename="../qml/ControlCenter.qml" line="220"/>
-        <location filename="../qml/ControlCenter.qml" line="236"/>
-        <location filename="../qml/ControlCenter.qml" line="253"/>
         <source>Off</source>
-        <translation>বন্ধ করুন</translation>
+        <translation type="vanished">বন্ধ করুন</translation>
     </message>
     <message>
-        <location filename="../qml/ControlCenter.qml" line="235"/>
         <source>Bluetooth</source>
-        <translation>ব্লুটুথ</translation>
+        <translation type="vanished">ব্লুটুথ</translation>
     </message>
     <message>
-        <location filename="../qml/ControlCenter.qml" line="252"/>
         <source>Dark Mode</source>
-        <translation>গাঢ় মোড</translation>
+        <translation type="vanished">গাঢ় মোড</translation>
     </message>
 </context>
 <context>
     <name>main</name>
     <message>
-        <location filename="../qml/main.qml" line="75"/>
         <source>Close</source>
-        <translation>বন্ধ করুন</translation>
+        <translation type="vanished">বন্ধ করুন</translation>
     </message>
 </context>
 </TS>

@@ -2,42 +2,41 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="uz">
 <context>
+    <name>Activity</name>
+    <message>
+        <location filename="../src/activity.cpp" line="166"/>
+        <source>Desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ControlCenter</name>
     <message>
-        <location filename="../qml/ControlCenter.qml" line="188"/>
         <source>Wi-Fi</source>
-        <translation>Simsiz tarmoq</translation>
+        <translation type="vanished">Simsiz tarmoq</translation>
     </message>
     <message>
-        <location filename="../qml/ControlCenter.qml" line="191"/>
-        <location filename="../qml/ControlCenter.qml" line="214"/>
         <source>On</source>
-        <translation>Yoqilgan</translation>
+        <translation type="vanished">Yoqilgan</translation>
     </message>
     <message>
-        <location filename="../qml/ControlCenter.qml" line="191"/>
-        <location filename="../qml/ControlCenter.qml" line="203"/>
-        <location filename="../qml/ControlCenter.qml" line="214"/>
         <source>Off</source>
-        <translation>O&apos;chirilgan</translation>
+        <translation type="vanished">O&apos;chirilgan</translation>
     </message>
     <message>
-        <location filename="../qml/ControlCenter.qml" line="202"/>
         <source>Bluetooth</source>
-        <translation>Bluetooth</translation>
+        <translation type="vanished">Bluetooth</translation>
     </message>
     <message>
-        <location filename="../qml/ControlCenter.qml" line="213"/>
         <source>Dark Mode</source>
-        <translation>Tungi rejim</translation>
+        <translation type="vanished">Tungi rejim</translation>
     </message>
 </context>
 <context>
     <name>main</name>
     <message>
-        <location filename="../qml/main.qml" line="71"/>
         <source>Close</source>
-        <translation>Yopish</translation>
+        <translation type="vanished">Yopish</translation>
     </message>
 </context>
 </TS>

@@ -12,69 +12,54 @@
 <context>
     <name>ControlCenter</name>
     <message>
-        <location filename="../qml/ControlCenter.qml" line="247"/>
         <source>Wi-Fi</source>
-        <translation>Wi-Fi</translation>
+        <translation type="vanished">Wi-Fi</translation>
     </message>
     <message>
-        <location filename="../qml/ControlCenter.qml" line="250"/>
-        <location filename="../qml/ControlCenter.qml" line="266"/>
-        <location filename="../qml/ControlCenter.qml" line="283"/>
         <source>On</source>
-        <translation>Uključeno</translation>
+        <translation type="vanished">Uključeno</translation>
     </message>
     <message>
-        <location filename="../qml/ControlCenter.qml" line="250"/>
-        <location filename="../qml/ControlCenter.qml" line="266"/>
-        <location filename="../qml/ControlCenter.qml" line="283"/>
         <source>Off</source>
-        <translation>Isključeno</translation>
+        <translation type="vanished">Isključeno</translation>
     </message>
     <message>
-        <location filename="../qml/ControlCenter.qml" line="265"/>
         <source>Bluetooth</source>
-        <translation>Bluetooth</translation>
+        <translation type="vanished">Bluetooth</translation>
     </message>
     <message>
-        <location filename="../qml/ControlCenter.qml" line="282"/>
         <source>Dark Mode</source>
-        <translation>Tamna tema</translation>
+        <translation type="vanished">Tamna tema</translation>
     </message>
 </context>
 <context>
     <name>ShutdownDialog</name>
     <message>
-        <location filename="../qml/ShutdownDialog.qml" line="95"/>
         <source>Shutdown</source>
-        <translation>Isključivanje</translation>
+        <translation type="vanished">Isključivanje</translation>
     </message>
     <message>
-        <location filename="../qml/ShutdownDialog.qml" line="110"/>
         <source>Reboot</source>
-        <translation>Ponovno pokretanje</translation>
+        <translation type="vanished">Ponovno pokretanje</translation>
     </message>
     <message>
-        <location filename="../qml/ShutdownDialog.qml" line="125"/>
         <source>Log out</source>
-        <translation>Odjava</translation>
+        <translation type="vanished">Odjava</translation>
     </message>
     <message>
-        <location filename="../qml/ShutdownDialog.qml" line="140"/>
         <source>Lock Screen</source>
-        <translation>Zaključni zaslon</translation>
+        <translation type="vanished">Zaključni zaslon</translation>
     </message>
     <message>
-        <location filename="../qml/ShutdownDialog.qml" line="155"/>
         <source>Suspend</source>
-        <translation>Zaustavi</translation>
+        <translation type="vanished">Zaustavi</translation>
     </message>
 </context>
 <context>
     <name>main</name>
     <message>
-        <location filename="../qml/main.qml" line="73"/>
         <source>Close</source>
-        <translation>Zatvori</translation>
+        <translation type="vanished">Zatvori</translation>
     </message>
 </context>
 </TS>

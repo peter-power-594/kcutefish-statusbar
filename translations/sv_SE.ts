@@ -2,42 +2,41 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="sv">
 <context>
+    <name>Activity</name>
+    <message>
+        <location filename="../src/activity.cpp" line="166"/>
+        <source>Desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ControlCenter</name>
     <message>
-        <location filename="../qml/ControlCenter.qml" line="188"/>
         <source>Wi-Fi</source>
-        <translation>Wi-Fi</translation>
+        <translation type="vanished">Wi-Fi</translation>
     </message>
     <message>
-        <location filename="../qml/ControlCenter.qml" line="191"/>
-        <location filename="../qml/ControlCenter.qml" line="214"/>
         <source>On</source>
-        <translation>På</translation>
+        <translation type="vanished">På</translation>
     </message>
     <message>
-        <location filename="../qml/ControlCenter.qml" line="191"/>
-        <location filename="../qml/ControlCenter.qml" line="203"/>
-        <location filename="../qml/ControlCenter.qml" line="214"/>
         <source>Off</source>
-        <translation>Av</translation>
+        <translation type="vanished">Av</translation>
     </message>
     <message>
-        <location filename="../qml/ControlCenter.qml" line="202"/>
         <source>Bluetooth</source>
-        <translation>Bluetooth</translation>
+        <translation type="vanished">Bluetooth</translation>
     </message>
     <message>
-        <location filename="../qml/ControlCenter.qml" line="213"/>
         <source>Dark Mode</source>
-        <translation>Mörkt läge</translation>
+        <translation type="vanished">Mörkt läge</translation>
     </message>
 </context>
 <context>
     <name>main</name>
     <message>
-        <location filename="../qml/main.qml" line="71"/>
         <source>Close</source>
-        <translation>Stäng</translation>
+        <translation type="vanished">Stäng</translation>
     </message>
 </context>
 </TS>

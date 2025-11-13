@@ -2,42 +2,34 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="eo">
 <context>
-    <name>ControlCenter</name>
+    <name>Activity</name>
     <message>
-        <location filename="../qml/ControlCenter.qml" line="188"/>
-        <source>Wi-Fi</source>
-        <translation type="unfinished">Wi-Fi</translation>
-    </message>
-    <message>
-        <location filename="../qml/ControlCenter.qml" line="191"/>
-        <location filename="../qml/ControlCenter.qml" line="214"/>
-        <source>On</source>
-        <translation type="unfinished">Ŝaltu</translation>
-    </message>
-    <message>
-        <location filename="../qml/ControlCenter.qml" line="191"/>
-        <location filename="../qml/ControlCenter.qml" line="203"/>
-        <location filename="../qml/ControlCenter.qml" line="214"/>
-        <source>Off</source>
-        <translation type="unfinished">Malŝalti</translation>
-    </message>
-    <message>
-        <location filename="../qml/ControlCenter.qml" line="202"/>
-        <source>Bluetooth</source>
-        <translation type="unfinished">Bluetooth</translation>
-    </message>
-    <message>
-        <location filename="../qml/ControlCenter.qml" line="213"/>
-        <source>Dark Mode</source>
-        <translation type="unfinished">malhela reĝimo</translation>
+        <location filename="../src/activity.cpp" line="166"/>
+        <source>Desktop</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
-    <name>main</name>
+    <name>ControlCenter</name>
     <message>
-        <location filename="../qml/main.qml" line="71"/>
-        <source>Close</source>
-        <translation type="unfinished"></translation>
+        <source>Wi-Fi</source>
+        <translation type="obsolete">Wi-Fi</translation>
+    </message>
+    <message>
+        <source>On</source>
+        <translation type="obsolete">Ŝaltu</translation>
+    </message>
+    <message>
+        <source>Off</source>
+        <translation type="obsolete">Malŝalti</translation>
+    </message>
+    <message>
+        <source>Bluetooth</source>
+        <translation type="obsolete">Bluetooth</translation>
+    </message>
+    <message>
+        <source>Dark Mode</source>
+        <translation type="obsolete">malhela reĝimo</translation>
     </message>
 </context>
 </TS>
